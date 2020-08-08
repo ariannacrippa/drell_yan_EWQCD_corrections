@@ -1,4 +1,4 @@
-# drell_yan_EWQCD_corrections
+# drell_yan_EW_corrections
 UV
 
 qqbarMUMU_EW_Uvfinite.nb-->calcolo (COMPLETO) della finitezza UV (vertici/self/box) con backgroundgauge e cariche simboliche
