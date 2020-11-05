@@ -1,0 +1,4 @@
+Files:
+EWgauge=box diagram computation in massless case, gauge generic(draft)
+EWgauge_MM=box diagram computation in mass case, gauge generic (draft)
+gauge_vert_self..=computation of gauge independence for vartex and self energies diagram(ok for Z, incomplete for W)
