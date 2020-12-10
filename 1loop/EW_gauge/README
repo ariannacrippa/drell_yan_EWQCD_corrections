@@ -1,4 +1,13 @@
 Files:
-EWgauge=box diagram computation in massless case, gauge generic(draft)
-EWgauge_MM=box diagram computation in mass case, gauge generic (draft)
-gauge_vert_self..=computation of gauge independence for vartex and self energies diagram(ok for Z, incomplete for W)
+
+-EWgauge=box diagram computation in massless case, gauge generic(draft)
+
+-EWgauge_Larin=box diagram computation in massless case, gauge generic con metodo Larin (draft)
+
+-EWgauge_MM=box diagram computation in mass case, gauge generic (draft)
+
+-EW_naive_kira=box diagram computation in massless case, gauge generic prove semplificazioni per kira(draft)
+
+-EW_naive_prov=box diagram computation in massless case, gauge generic calcolo traccia moltiplicazioni cariche e poi trace (metodo più corto) (problemi invarianza)(draft)
+
+-gauge_vert_self..=computation of gauge independence for vartex and self energies diagram(ok for Z, incomplete for W)

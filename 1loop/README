@@ -1,0 +1,17 @@
+FILES:
+(g=gamma, fotone z=bosone Z)
+
+-EW_Larin.nb : 1 loop box massless metodo Larin trace e poi sost cariche (più generico e lungo)
+
+-EW_MM0_Larin2: 1 loop box gz born z (massless) LArin cariche e poi tracce, metodo più corto. confronto NAR
+
+-EW_MM_Larin2:1 loop box gg born z/g (mass!=0) LArin cariche e poi tracce, metodo più corto. confronto NAR
+
+-EW_MM_naive:1 loop box naive anticommuting
+
+-EW_MM_naive_kira:1 loop box naive anticommuting e sostituzioni/semplificazioni per usare kira (integral reduction)
+
+-EW_naive:1 loop box naive anticommuting (massless case)
+
+-EW_naive_vertici: 1 loop calcolo vertici naive anticommuting
+
