@@ -1,0 +1,12 @@
+WGauge WGauge vertici+self energie :
+
+(el^4 (S - 4 MW2 WGAUGE)Mat[SUNT[Col1, Col2]] 
+*Weylchain[("(",Overscript["v", "."], 1, "|", 6, "|",Overscript["u", "."], 4, ")"]) ("(", "u", 2, "|", 7, "|", "v", 3, ")"]))]
+/(384 MW2^2 \[Pi]^2 SW2^2) 
+
+WGauge WGauge box WW*(born photon+born Z):
+
+((I el^6 (I3L I3U MZ2 - MZ2 QL (I3U - QU) SW2 - I3L MZ2 QU SW2) (S + T)^2 (S - 4 MW2 WGAUGE) DENw[1, 1, 0, 0])
+/( 192 MW2^3 \[Pi]^4 (MZ2 - S) SW2^3))
+
+DENw[a,b,c,d]={(-MW2 WGAUGE + (P1 + Q1)^2)^a, (-MW2 WGAUGE + (Q1-P2)^2)^b,( Q1^2)^c,(P2-Q1-K1)^2^d}
