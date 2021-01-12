@@ -3,7 +3,7 @@ FILES:
 
 -EW_Larin.nb : 1 loop box massless metodo Larin trace e poi sost cariche (più generico e lungo)
 
--EW_MM0_Larin2: 1 loop box gz born z (massless) LArin cariche e poi tracce, metodo più corto. confronto NAR
+-EW_MM0_Larin2: 1 loop box gz born g/z (massless) LArin cariche e poi tracce, metodo più corto. confronto NAR
 
 -EW_MM_Larin2:1 loop box gg born z/g (mass!=0) LArin cariche e poi tracce, metodo più corto. confronto NAR
 
